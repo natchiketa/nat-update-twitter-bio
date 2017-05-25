@@ -28,7 +28,7 @@ function daysSince(date) {
   return daysSince.toLocaleString();
 }
 
-const description = `Day ${daysSince('07/19/2010')}: The Millennials have accepted me as one of their own. They still do not know I'm a Gen Xer.`;
+const description = `Day ${daysSince('07/1/2010')}: The Millennials have accepted me as one of their own. They still do not know I'm a Gen Xer.`;
 
 console.log(description);
 
